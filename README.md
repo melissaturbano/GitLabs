@@ -1,7 +1,7 @@
 # GitLabs
 
 Calculadora com as funções:
-- somar
-- subtrair 
-- multiplicar 
-- dividir
+- Somar
+- Subtrair 
+- Multiplicar 
+- Dividir
